@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Mehta",
+    "age": 34,
+    "gender": "Male",
+    "contact": {
+      "phone": "+91-9876543210",
+      "email": "aarav.mehta@example.com"
+    },
+    "medical_history": [
+      "Hypertension",
+      "High cholesterol"
+    ],
+    "allergies": ["Penicillin"],
+    "current_medications": ["Atenolol", "Atorvastatin"]
+  },
+  {
+    "id": 2,
+    "name": "Saanvi Desai",
+    "age": 27,
+    "gender": "Female",
+    "contact": {
+      "phone": "+91-9123456789",
+      "email": "saanvi.desai@example.com"
+    },
+    "medical_history": [
+      "Asthma"
+    ],
+    "allergies": ["Dust", "Pollen"],
+    "current_medications": ["Salbutamol Inhaler"]
+  },
+  {
+    "id": 3,
+    "name": "Rohan Patel",
+    "age": 45,
+    "gender": "Male",
+    "contact": {
+      "phone": "+91-9988776655",
+      "email": "rohan.patel@example.com"
+    },
+    "medical_history": [
+      "Type 2 Diabetes",
+      "Obesity"
+    ],
+    "allergies": [],
+    "current_medications": ["Metformin", "Insulin"]
+  },
+  {
+    "id": 4,
+    "name": "Kavya Shah",
+    "age": 19,
+    "gender": "Female",
+    "contact": {
+      "phone": "+91-9345678901",
+      "email": "kavya.shah@example.com"
+    },
+    "medical_history": [],
+    "allergies": ["Peanuts"],
+    "current_medications": []
+  },
+  {
+    "id": 5,
+    "name": "Devansh Iyer",
+    "age": 53,
+    "gender": "Male",
+    "contact": {
+      "phone": "+91-9871234567",
+      "email": "devansh.iyer@example.com"
+    },
+    "medical_history": [
+      "Arthritis"
+    ],
+    "allergies": [],
+    "current_medications": ["Ibuprofen"]
+  }
+]

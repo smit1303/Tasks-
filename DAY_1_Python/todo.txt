@@ -1,0 +1,10 @@
+[ ] Buy groceries
+[x] Submit Python assignment
+[ ] Call the bank
+[x] Pay electricity bill
+[ ] Prepare for AI interview
+[ ] Read 10 pages of book
+[x] Finish CV update
+[ ] Water the plants
+[ ] Book doctor appointment
+[x] Clean downloads folder
