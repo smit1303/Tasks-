@@ -31,7 +31,7 @@ if not api_key:
 
 llm = ChatGroq(
     groq_api_key=api_key,
-    model_name="Llama3-8b-8192",
+    model_name="deepseek-r1-distill-llama-70b",
     streaming=True
 )
 
