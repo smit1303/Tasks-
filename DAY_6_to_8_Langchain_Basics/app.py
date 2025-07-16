@@ -97,7 +97,7 @@ if engine:
         llm=llm,
         toolkit=toolkit,
         verbose=True,
-        agent_type=AgentType.CHAT_ZERO_SHOT_REACT_DESCRIPTION
+        agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION
     )
 
     # --- Chat UI ---
